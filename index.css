@@ -38,7 +38,7 @@ nav ul li {
 #model{
   width: 100vw;
   height: 100vh;
-  /* background-image: url("/Product images/model.jpg"); */
+  /* background-image: url("Product images/model.jpg"); */
   background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0)),url('Product images/model.jpg');
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
