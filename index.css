@@ -542,6 +542,7 @@ h2 {
   
   #model .container h1{
     font-size: 48px;
+    text-align: center;
   }
   
   #model .container{
